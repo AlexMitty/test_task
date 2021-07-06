@@ -1,0 +1,12 @@
+<config>
+    <file
+            source_path="C:\Users\elmar\Downloads\Telegram Desktop"
+            destination_path="D:\Projects"
+            file_name="archive-2021-06-09_10-14-34.zip"
+    />
+    <file
+            source_path="/var/nog"
+            destination_path="/etcs"
+            file_name="server.log"
+    />
+</config>
