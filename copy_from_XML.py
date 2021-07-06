@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import xml.dom.minidom as minidom
 from shutil import copy2
 from os import path, makedirs
